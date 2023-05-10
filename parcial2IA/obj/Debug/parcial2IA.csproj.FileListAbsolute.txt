@@ -1,0 +1,11 @@
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\bin\Debug\parcial2IA.exe.config
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\bin\Debug\parcial2IA.exe
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\bin\Debug\parcial2IA.pdb
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.csproj.AssemblyReference.cache
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.csproj.SuggestedBindingRedirects.cache
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.Properties.Resources.resources
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.csproj.GenerateResource.cache
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.csproj.CoreCompileInputs.cache
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.exe
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.pdb
+C:\Users\DaspN\source\repos\parcial2IA\parcial2IA\obj\Debug\parcial2IA.FormPrincipal.resources
